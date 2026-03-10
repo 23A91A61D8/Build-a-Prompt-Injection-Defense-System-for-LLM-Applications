@@ -1,0 +1,10 @@
+Explain machine learning
+What is artificial intelligence?
+How does a neural network work?
+Explain data science
+What is Python programming?
+Tell me about cybersecurity
+What is deep learning?
+Explain cloud computing
+What is natural language processing?
+Describe the benefits of AI
